@@ -8,7 +8,7 @@ This repository contains various projects and tasks related to my internship at 
    - Developed a responsive landing page as part of the initial project.
    - Focused on creating a user-friendly and visually appealing design.
 
-2. **Task 2: [Stopwatch Application]()**
+2. **Task 2: [Stopwatch Application](https://nikitadhiman-027.github.io/stopwatch/)**
    - Created a stopwatch application with start, stop, and reset functionalities.
    - Implemented using HTML, CSS, and JavaScript to track and display time.
 
