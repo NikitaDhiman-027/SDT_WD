@@ -12,6 +12,6 @@ This repository contains various projects and tasks related to my internship at 
    - Created a stopwatch application with start, stop, and reset functionalities.
    - Implemented using HTML, CSS, and JavaScript to track and display time.
 
-3. **Task 3: [To-Do List]()**
+3. **Task 3: [To-Do List](https://nikitadhiman-027.github.io/To-Do-List/)**
    - Built a To-Do List application with features to add, edit, update, and remove tasks.
    - Utilized HTML, CSS, and JavaScript for task management and dynamic updates.
