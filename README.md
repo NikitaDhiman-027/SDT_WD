@@ -4,7 +4,7 @@ This repository contains various projects and tasks related to my internship at 
 
 **Internship Tasks**
 
-1. **Task 1: [Responsive Landing Page]()**
+1. **Task 1: [Responsive Landing Page](https://nikitadhiman-027.github.io/responsive_landing_page/)**
    - Developed a responsive landing page as part of the initial project.
    - Focused on creating a user-friendly and visually appealing design.
 
